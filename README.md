@@ -15,6 +15,6 @@ Actualmente terminando el Ciclo Formativo de Grado Superior [Desarrollo de Aplic
 
 ## Contacto:
 
-[![Gmail](https://img.shields.io/badge/vicgarmur947@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigo.mardel.daw@gmail.com)
+[![Gmail](https://img.shields.io/badge/rodrigo.mardel.daw@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigo.mardel.daw@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.https://www.linkedin.com/in/rodrigo-martinez-delgado/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/RodrigoWhile)
