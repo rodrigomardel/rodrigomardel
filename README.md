@@ -1,4 +1,4 @@
-# Hey! Soy Rodrigo 🐱‍👤
+# ¡Hola! Soy Rodrigo 🐱‍👤
 
 Apasionado por la tecnología y los avances de la era digital. Estoy comprometido con la mejora continua y la aplicación práctica de mis habilidades técnicas y creativas, contribuyendo de manera activa al desarrollo de proyectos web.
 
