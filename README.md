@@ -1,7 +1,7 @@
 # ¡Hola! Soy Rodrigo ^_^
-Apasionado por la tecnología y los avances de la era digital. Estoy comprometido con la mejora continua y la aplicación práctica de mis habilidades técnicas y creativas, contribuyendo de manera activa al desarrollo de proyectos web.
+Apasionado por la tecnología y los avances de la era digital. Estoy comprometido con la mejora continua y la aplicación práctica de mis habilidades técnicas y creativas contribuyendo de manera activa al desarrollo de proyectos web.
 
-Actualmente terminando el Ciclo Formativo de Grado Superior [Desarrollo de Aplicaciones Web](https://github.com/rodrigomardel/Desarrollo-de-Aplicaciones-Web).
+Actualmente finalizando el Ciclo Formativo de Grado Superior [Desarrollo de Aplicaciones Web](https://github.com/rodrigomardel/Desarrollo-de-Aplicaciones-Web).
 
 ## Tecnologías:
 
