@@ -4,13 +4,13 @@ Apasionado por la tecnología y los avances de la era digital. Estoy comprometid
 
 Actualmente finalizando el Ciclo Formativo de Grado Superior [Desarrollo de Aplicaciones Web](https://github.com/rodrigomardel/Desarrollo-de-Aplicaciones-Web).
 
-## Tecnologías & Herramientas:
+##
 
 ![Tecnologías](https://skillicons.dev/icons?i=html,css,js,java,php,mysql)
 
-![Herramientas](https://skillicons.dev/icons?i=eclipse,vscode,bootstrap,git,ps)
+![Herramientas](https://skillicons.dev/icons?i=vscode,eclipse,bootstrap,git,ps)
 
-## Contacto:
+##
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodrigo-martinez-delgado/)
 [![Gmail](https://img.shields.io/badge/rodrigo.mardel.daw@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigo.mardel.daw@gmail.com)
