@@ -2,7 +2,7 @@
 
 Apasionado por la tecnología y los avances de la era digital. Estoy comprometido con la mejora continua y la aplicación práctica de mis habilidades técnicas y creativas, contribuyendo de manera activa al desarrollo de proyectos web.
 
-Actualmente finalizando el Ciclo Formativo de Grado Superior [Desarrollo de Aplicaciones Web](https://github.com/rodrigomardel/Desarrollo-de-Aplicaciones-Web).
+Actualmente finalizando el Ciclo Formativo de Grado Superior [Desarrollo de Aplicaciones Web](https://github.com/rodrigomardel/Desarrollo-de-Aplicaciones-Web)
 
 ## Habilidades
 
@@ -12,6 +12,5 @@ Actualmente finalizando el Ciclo Formativo de Grado Superior [Desarrollo de Apli
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodrigo-martinez-delgado/)
 [![Gmail](https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigo.mardel.daw@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/RodrigoWhile)
