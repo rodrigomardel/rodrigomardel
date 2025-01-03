@@ -8,7 +8,7 @@ Actualmente finalizando el Ciclo Formativo de Grado Superior [Desarrollo de Apli
 
 ![Tecnologías](https://skillicons.dev/icons?i=html,css,js,java,php,mysql)
 
-![Herramientas](https://skillicons.dev/icons?i=vscode,eclipse,bootstrap,git,ps)
+![Herramientas](https://skillicons.dev/icons?i=eclipse,vscode,bootstrap,git,ps)
 
 ## Contacto
 
