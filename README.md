@@ -12,5 +12,6 @@ Actualmente finalizando el Ciclo Formativo de Grado Superior [Desarrollo de Apli
 
 ## Contacto
 
-[![Gmail](https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigo.mardel.daw@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/RodrigoWhile)
+![Gmail] (https://skillicons.dev/icons?i=gmail)(mailto:rodrigo.mardel.daw@gmail.com)
+
+![Linkedin] (https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/rodrigo-martinez-delgado/)
