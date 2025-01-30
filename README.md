@@ -1,12 +1,12 @@
-# ¡Hola! Soy Rodrigo ^\_^
+<h1 align="center">¡Hola! Soy Rodrigo ^_^</h1>
 
 Apasionado por la tecnología y los avances de la era digital. Estoy comprometido con la mejora continua y la aplicación práctica de mis habilidades técnicas y creativas, contribuyendo de manera activa al desarrollo de proyectos web.
 
 Actualmente finalizando CFGS [Desarrollo de Aplicaciones Web](https://github.com/rodrigomardel/Desarrollo-de-Aplicaciones-Web)
 
-## Habilidades
+## Lenguajes y Herramientas
 
-![Tecnologías](https://skillicons.dev/icons?i=html,css,js,java,php,mysql)
+![Lenguajes](https://skillicons.dev/icons?i=html,css,js,java,php,mysql)
 
 ![Herramientas](https://skillicons.dev/icons?i=eclipse,vscode,bootstrap,git,ps)
 
