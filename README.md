@@ -4,6 +4,8 @@ Apasionado por la tecnología y los avances de la era digital. Estoy comprometid
 
 Actualmente finalizando CFGS [Desarrollo de Aplicaciones Web](https://github.com/rodrigomardel/Desarrollo-de-Aplicaciones-Web)
 
+<div align="center">
+
 ## Lenguajes y Herramientas
 
 ![Lenguajes](https://skillicons.dev/icons?i=html,css,js,java,php,mysql)
@@ -13,3 +15,5 @@ Actualmente finalizando CFGS [Desarrollo de Aplicaciones Web](https://github.com
 ## Contacto
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rodrigo-martinez-delgado/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rodrigo.mardel.daw@gmail.com)
+
+</div>
