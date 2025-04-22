@@ -2,7 +2,7 @@
 
 Apasionado por la tecnología y los avances de la era digital. Estoy comprometido con la mejora continua y la aplicación práctica de mis habilidades técnicas y creativas, contribuyendo de manera activa al desarrollo de proyectos web.
 
-<br>
+
 <div align="center">
 
 ## Lenguajes y Herramientas
@@ -11,7 +11,7 @@ Apasionado por la tecnología y los avances de la era digital. Estoy comprometid
 
 ![Herramientas](https://skillicons.dev/icons?i=eclipse,vscode,git,ps,docker,firebase,postman)
 
-<br>
+
 ## Contacto
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rodrigo-martinez-delgado/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rodrigo.mardel.daw@gmail.com)
