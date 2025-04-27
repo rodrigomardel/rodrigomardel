@@ -7,7 +7,7 @@ Apasionado por la tecnología y los avances de la era digital. Estoy comprometid
 
 ## Lenguajes y Herramientas
 
-![Lenguajes](https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,java,spring,php,mysql)
+![Lenguajes](https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,java,php,mysql)
 
 ![Herramientas](https://skillicons.dev/icons?i=eclipse,vscode,git,ps,firebase,postman)
 
