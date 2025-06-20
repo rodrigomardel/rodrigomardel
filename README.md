@@ -1,7 +1,6 @@
 <h1 align="center">¡Hola! Soy Rodrigo ^_^</h1>
 
-Soy una persona apasionada por la tecnología y los avances de la era digital, comprometido con la mejora continua y la aplicación de mis habilidades técnicas y creativas contribuyendo al desarrollo de proyectos web.
-
+Apasionado por la tecnología y los avances de la era digital, estoy comprometido con mejorar y aplicar mis habilidades en proyectos de aplicaciones web. Destaco en el desarrollo frontend, creando experiencias digitales intuitivas y funcionales para todo tipo de personas.
 <div align="center">
 
 ## Lenguajes y Herramientas
