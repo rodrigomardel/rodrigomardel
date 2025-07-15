@@ -1,6 +1,8 @@
 <h1 align="center">¡Hola! Soy Rodrigo ^_^</h1>
 
-Apasionado por la tecnología y los avances de la era digital, estoy comprometido con mejorar y aplicar mis habilidades en proyectos de aplicaciones web. Destaco en el desarrollo frontend, creando experiencias digitales intuitivas y funcionales para todo tipo de personas.
+Técnico Superior en Desarrollo de Aplicaciones Web, apasionado por la tecnología y los avances de la era digital, comprometido con mejorar y aplicar mis habilidades en proyectos de desarrollo de software y aplicaciones web.
+
+Me gusta dedicar parte de mi tiempo a dominar nuevas tecnologías y desarrollar proyectos personales donde aplico mis conocimientos y nuevos aprendizajes a situaciones reales, ayudando a mejorar mis habilidades técnicas desarrollando una forma de pensar mas creativa y resolutiva.
 <div align="center">
 
 ## Lenguajes y Herramientas
