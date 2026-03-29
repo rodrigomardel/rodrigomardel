@@ -7,9 +7,9 @@ Me gusta dedicar parte de mi tiempo a dominar nuevas tecnologías y desarrollar 
 
 ## Lenguajes y Herramientas
 
-![Lenguajes](https://skillicons.dev/icons?i=react,node,mysql)
+![Lenguajes](https://skillicons.dev/icons?i=react,nodejs,mysql)
 
-![Herramientas](https://skillicons.dev/icons?i=n8n,firebase,git,gimp,postman)
+![Herramientas](https://skillicons.dev/icons?i=firebase,git,postman)
 
 
 ## Contacto
