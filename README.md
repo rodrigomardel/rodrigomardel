@@ -1,15 +1,15 @@
 <h1 align="center">¡Hola! Soy Rodrigo ^_^</h1>
 
-Técnico Superior en Desarrollo de Aplicaciones Web, apasionado por la tecnología y los avances de la era digital, comprometido con mejorar y aplicar mis habilidades en proyectos de desarrollo de software y aplicaciones web.
+Técnico Superior en Desarrollo de Aplicaciones Web. Mi pasión por la tecnología se remonta al clásico IBM PS/1, donde se despertó una fascinación por la lógica detrás del software y la interacción con el sistema.
 
-Me gusta dedicar parte de mi tiempo a dominar nuevas tecnologías y desarrollar proyectos personales donde aplicar mis conocimientos y nuevos aprendizajes a situaciones reales, ayudando a mejorar mis habilidades técnicas.
+Me gusta dedicar parte de mi tiempo a dominar nuevas tecnologías y desarrollar proyectos personales donde aplicar mis conocimientos y nuevos aprendizajes a situaciones reales ayudando a mejorar mis habilidades técnicas.
 <div align="center">
 
 ## Lenguajes y Herramientas
 
-![Lenguajes](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,java,php,mysql)
+![Lenguajes](https://skillicons.dev/icons?i=react,node,mysql)
 
-![Herramientas](https://skillicons.dev/icons?i=eclipse,vscode,git,ps,firebase,postman)
+![Herramientas](https://skillicons.dev/icons?i=n8n,firebase,git,gimp,postman)
 
 
 ## Contacto
